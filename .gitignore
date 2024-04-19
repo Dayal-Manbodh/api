@@ -1,0 +1,19 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+# Ignore compiled files
+*.class
+*.jar
+*.war
+
+# Ignore dependencies
+/node_modules/
+/vendor/
+
+# Ignore logs and temporary files
+/log/
+/tmp/
